@@ -8,7 +8,7 @@
 
 ### 💡 Sobre mí
 - 🔭 Actualmente trabajando en proyectos grupales o individuales 
-- 🌱 Aprendiendo más sobre **Python, DevOps y IoT**  
+- 🌱 Aprendiendo más sobre **Python, Java y IoT**  
 - 🤝 Me gusta colaborar en proyectos que combinen innovación y eficiencia  
 
 ---
