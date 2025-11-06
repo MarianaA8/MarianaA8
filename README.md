@@ -7,29 +7,26 @@
 ---
 
 ### 💡 Sobre mí
-- 🔭 Actualmente trabajando en proyectos de integración y análisis de datos  
-- 🌱 Aprendiendo más sobre **Python, DevOps y seguridad informática**  
+- 🔭 Actualmente trabajando en proyectos grupales o individuales 
+- 🌱 Aprendiendo más sobre **Python, DevOps y IoT**  
 - 🤝 Me gusta colaborar en proyectos que combinen innovación y eficiencia  
-- ⚙️ Interesada en el desarrollo de software y optimización de sistemas  
 
 ---
 
 ### 🧰 Tecnologías y herramientas
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?logo=visual-studio-code&logoColor=white)
 
----
-
-### 📈 Mis estadísticas
-![Estadísticas de Mar](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
-
----
 
 ### 📫 Cómo contactarme
-[💼 LinkedIn](https://linkedin.com/in/TU_LINKEDIN)  
-✉️ **Correo:** tuemail@ejemplo.com  
+✉️ **Correo:** mariana.abigaaail@gmail.com  
+
+### 💗
+![Texto alternativo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH-UGUHAtTP1Cw7TbHmA7wF-F7w14BabsVfSIABA-C2x0KtkwbcP5dcaBf9x6ecOM5l6o&usqp=CAU)
 
